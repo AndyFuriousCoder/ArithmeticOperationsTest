@@ -23,4 +23,4 @@
 "src\main\java\enums\OperationTypes.java" - вспомогательный файл, содержащий перечисление операций.
 
 Запуск теста из командной строки: -mvn clean test site
-Отчёт о тесте в папке \target\site\
+Отчёт о тесте будет сгенерирован в папке \target\site\
